@@ -6,3 +6,4 @@
 新建 `app.vue`
 新建 `main.ts` 挂载节点
 `package.json` 配置脚本启动
+配置vue ts 声明文件：`vue-shim.d.ts`，让 ts 认识 `*.vue` 文件
