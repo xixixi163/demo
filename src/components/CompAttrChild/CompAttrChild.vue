@@ -1,5 +1,5 @@
 <template>
-  <CompAttrChildNext v-bind=$attrs />
+  <CompAttrChildNext v-bind="$attrs" />
 </template>
 
 <script setup>
