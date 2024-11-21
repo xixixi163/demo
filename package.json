@@ -14,6 +14,7 @@
     "vite": "^5.0.10"
   },
   "dependencies": {
-    "@lotus-leaf/mini-app": "workspace:^"
+    "@lotus-leaf/mini-app": "workspace:^",
+    "vue-router": "^4.0.3"
   }
 }
